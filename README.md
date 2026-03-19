@@ -1,1 +1,12 @@
-# kodok-news.github.io
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Halo dari Kodok News</title>
+</head>
+<body>
+  <h1>Selamat datang di Kodok News</h1>
+  <p>Halaman ini dihosting dengan GitHub Pages.</p>
+</body>
+</html>
